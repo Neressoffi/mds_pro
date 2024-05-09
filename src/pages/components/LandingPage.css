@@ -1,0 +1,43 @@
+.button-image {
+    width: 300px; /* Taille de l'image */
+    float: right; /* Positionner l'image à droite */
+    margin-left: 30px; /* Marge à gauche pour espacement */
+  }
+  .bottom-left-image {
+    width: 300px; /* Taille de l'image */
+    position: absolute; /* Position absolue pour le placer en bas à gauche */
+    bottom: -250px; /* Espacement depuis le bas de la page */
+    left: 180px; /* Espacement depuis la gauche de la page */
+  }
+  .bottom-left-image2 {
+    width: 250px; /* Taille de l'image */
+    position: absolute; /* Position absolue pour le placer en bas à gauche */
+    bottom: 58px; /* Espacement depuis le bas de la page */
+    left: 100px;
+  }
+ .h1{
+ 
+    float: left;
+    width: 30%; /* Vous pouvez ajuster cette valeur selon vos besoins */
+    padding-left: 20px;
+ }
+
+ .text-left {
+    float: left;
+    width: 100%; /* Vous pouvez ajuster cette valeur selon vos besoins */
+    padding-left:14px; /* Espacement entre le texte et le bord gauche de la page */
+  }
+
+  body {
+    background-color: #FFBE98; /* Couleur de fond pour tout le corps de la page */
+    margin: 0; /* Supprime les marges par défaut du corps */
+    padding: 0; /* Supprime les paddings par défaut du corps */
+  }
+  
+ .tel{
+  padding-right: 15px;
+ }
+
+ .logo {
+  left: 100px;
+ }
